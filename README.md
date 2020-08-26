@@ -26,6 +26,7 @@ I'm Enrique, I hope you find this interesting!
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Angular&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Tech-BPM-informational?style=flat&color=008080)
+![](https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
 
 ## Companies I've worked for
 ![](https://img.shields.io/badge/Company-Red_Hat-informational?style=flat&logo=Red-Hat&logoColor=white&color=EE0000)
