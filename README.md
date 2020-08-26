@@ -11,14 +11,6 @@ I'm Nathan, that's all folks !
 - 👯 I’m looking to collaborate on a tool to analyze project dependencies with each others.
 - 💬 Ask me about Java, Javascript, BPM, Docker...
 - ⚡ Fun fact: Gardening, Drum, Guitar, Movies, Music, Swimming, trekking and to do nothing are the things I spend time on
--->
-
-## Companies I've worked for
-![](https://img.shields.io/badge/Company-Red_Hat-informational?style=flat&logo=Red-Hat&logoColor=white&color=EE0000)
-![](https://img.shields.io/badge/Company-Everis-informational?style=flat&logoColor=white&color=9BAE0C)
-![](https://img.shields.io/badge/Public_Entity-RTD_European_Commission-informational?style=flat&logoColor=white&color=004494)
-![](https://img.shields.io/badge/Public_Entity-EUIPO_European_Union-informational?style=flat&logoColor=white&color=004494)
-![](https://img.shields.io/badge/Public_Entity-Universidad_Murcia-informational?style=flat&logoColor=white&color=AF1A2E)
 
 ## 🔧 Technologies & Tools
 
@@ -35,7 +27,12 @@ I'm Nathan, that's all folks !
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Tech-BPM-informational?style=flat&color=008080)
 
-
+## Companies I've worked for
+![](https://img.shields.io/badge/Company-Red_Hat-informational?style=flat&logo=Red-Hat&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/Company-Everis-informational?style=flat&logoColor=white&color=9BAE0C)
+![](https://img.shields.io/badge/Public_Entity-RTD_European_Commission-informational?style=flat&logoColor=white&color=004494)
+![](https://img.shields.io/badge/Public_Entity-EUIPO_European_Union-informational?style=flat&logoColor=white&color=004494)
+![](https://img.shields.io/badge/Public_Entity-Universidad_Murcia-informational?style=flat&logoColor=white&color=AF1A2E)
 
 ## 👨‍💻 Sometimes I work
 
