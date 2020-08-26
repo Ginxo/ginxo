@@ -54,6 +54,46 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 
 ### 📰 Stats of the week
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    228 commits    ███████████░░░░░░░░░░░░░░   44.88% 
+🌆 Daytime    267 commits    █████████████░░░░░░░░░░░░   52.56% 
+🌃 Evening    12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Tuesday      102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.08% 
+Wednesday    89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+Thursday     134 commits    ██████░░░░░░░░░░░░░░░░░░░   26.38% 
+Friday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   19.88% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginxo" alt="profile views" /> </p>
