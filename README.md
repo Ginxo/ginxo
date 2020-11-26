@@ -6,9 +6,10 @@ I'm Enrique, I hope you find this interesting!
   - [Github Action Build Chain](https://github.com/marketplace/actions/github-action-build-chain-cross-repo-builds)
   - [Red Hat Business Automation Productization stuff](https://github.com/kiegroup)
   - [Lock treatment tool](https://www.npmjs.com/package/lock-treatment-tool)
+  - [Build Chain files generator](https://github.com/marketplace/actions/build-chain-files-generator)
   - ...
 - 🌱 I’m currently learning as much as I can
-- 👯 I’m looking to collaborate on a tool to analyze project dependencies with each others.
+- 👯 I’m looking to collaborate on a tool to analyze project dependencies with each others. Feel free to collaborate with any of my already created projects.
 - 💬 Ask me about Java, Javascript, BPM, Docker...
 - ⚡ Fun fact: Gardening, Drum, Guitar, Movies, Music, Swimming, trekking and to do nothing are the things I spend time on
 
