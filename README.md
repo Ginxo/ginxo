@@ -6,6 +6,7 @@ I'm Enrique, I hope you find this interesting!
   - [Github Action Build Chain](https://github.com/marketplace/actions/github-action-build-chain-cross-repo-builds)
   - [Red Hat Business Automation Productization stuff](https://github.com/kiegroup)
   - [Lock treatment tool](https://www.npmjs.com/package/lock-treatment-tool)
+  - [NPM treatment tool](https://github.com/kiegroup/npm-treatment-tool)
   - [Build Chain files generator](https://github.com/marketplace/actions/build-chain-files-generator)
   - ...
 - 🌱 I’m currently learning as much as I can
