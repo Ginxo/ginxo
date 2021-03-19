@@ -71,8 +71,8 @@ MeilleursAgents/SCALE-srv-py: [![time tracker](https://wakatime.com/badge/github
 ```text
 Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
 Tuesday      96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Wednesday    107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Thursday     163 commits    ██████░░░░░░░░░░░░░░░░░░░   27.35% 
+Wednesday    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
+Thursday     165 commits    ███████░░░░░░░░░░░░░░░░░░   27.68% 
 Friday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
